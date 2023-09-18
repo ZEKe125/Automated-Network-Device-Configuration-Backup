@@ -33,7 +33,7 @@ Before using this script, make sure you have the following prerequisites in plac
 3. Install the required Python libraries:
 
    ```bash
-   pip install paramiko gitpython smtplib
+   pip install requirements.txt
 
 ## Usage
 
