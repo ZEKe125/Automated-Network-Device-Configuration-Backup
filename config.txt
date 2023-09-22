@@ -9,6 +9,6 @@
     altname eni-09e64030f441c834c
     altname device-number-0
     inet 172.31.41.198/20 metric 512 brd 172.31.47.255 scope global dynamic enX0
-       valid_lft 1887sec preferred_lft 1887sec
+       valid_lft 3490sec preferred_lft 3490sec
     inet6 fe80::c2b:3aff:fe4c:5d/64 scope link 
        valid_lft forever preferred_lft forever
