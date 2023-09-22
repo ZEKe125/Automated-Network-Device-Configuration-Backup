@@ -32,8 +32,8 @@ Before using this script, make sure you have the following prerequisites in plac
 
 3. Install the required Python libraries:
 
-   ```bash
-   pip install requirements.txt
+    ``bash
+   pip install -r requirements.txt
 
 ## Usage
 
